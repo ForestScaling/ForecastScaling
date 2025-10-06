@@ -1,4 +1,4 @@
-Forest Scaling & Disturbance Forecasting
+## Forest Scaling & Disturbance Forecasting
 
 This repository contains R scripts for forecasting tree demographic responses to disturbance and climate. The workflow integrates remote sensing data, field survey measurements, and machine learning models.
 
